@@ -1,3 +1,3 @@
 # covfefe.js
 
-''' covfefe('conference'); => 'covfefe'; '''
+``` covfefe('conference') ``` -> 'covfefe';
